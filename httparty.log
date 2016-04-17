@@ -1,0 +1,2 @@
+# Logfile created on 2016-04-18 01:21:05 +0800 by logger.rb/53141
+I, [2016-04-18T01:21:10.574986 #9896]  INFO -- : [HTTParty] [2016-04-18 01:21:10 +0800] 400 "GET /detection/detect" 70 
